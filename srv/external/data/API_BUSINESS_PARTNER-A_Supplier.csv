@@ -1,0 +1,7 @@
+Supplier;SupplierName;SupplierFullName;PurchasingIsBlocked;PostingIsBlocked
+17300001;Stahlwerk Rheinland GmbH;Stahlwerk Rheinland GmbH, Duisburg;false;false
+17300002;Kunststofftechnik Müller KG;Kunststofftechnik Müller KG, Lüdenscheid;false;false
+17300003;Elektro Bauer AG;Elektro Bauer AG, Nürnberg;false;false
+17300004;Verpackungen Nord GmbH;Verpackungen Nord GmbH, Hamburg;false;false
+17300005;Hydraulik Schmid GmbH;Hydraulik Schmid GmbH, Ulm;false;false
+17300006;Logistikbedarf Weber e.K.;Logistikbedarf Weber e.K., Kassel;false;false
