@@ -1,0 +1,7 @@
+code;name;descr;criticality
+OPEN;Offen;Noch keine Auftragsbestätigung, Liefertermin nicht kritisch;0
+CONFIRMED;Bestätigt;Lieferant hat einen fristgerechten Termin bestätigt;3
+AT_RISK;Gefährdet;Termin naht ohne Bestätigung oder Lieferant bestätigt später als gewünscht;2
+OVERDUE;Überfällig;Liefertermin überschritten;1
+ESCALATED;Eskaliert;An Lieferantenmanagement eskaliert;1
+DELIVERED;Geliefert;Vollständig geliefert;3
