@@ -45,6 +45,23 @@
             "path": "/sap/opu/odata/sap/API_BUSINESS_PARTNER"
           }
         }
+      },
+      "auth": {
+        "[development]": {
+          "kind": "mocked",
+          "users": {
+            "anna": {
+              "password": "anna",
+              "roles": [
+                "Buyer"
+              ]
+            },
+            "lea": {
+              "password": "lea",
+              "roles": []
+            }
+          }
+        }
       }
     }
   }
