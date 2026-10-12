@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "cds serve (mit S/4-Mocks)",
+      "request": "launch",
+      "type": "node",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["cds", "serve", "all", "--with-mocks", "--in-memory?"],
+      "skipFiles": ["<node_internals>/**"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "purchase-order-monitor",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@sap/cds": "^10"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^3",
+    "@sap/cds-dk": "^10.1.0",
+    "eslint": "^10.12.0"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch": "cds watch",
+    "lint": "eslint ."
+  },
+  "private": true,
+  "description": "Bestellüberwachung als Side-by-Side-Erweiterung für SAP S/4HANA (CAP + Fiori Elements)",
+  "cds": {
+    "i18n": {
+      "default_language": "de"
+    }
+  }
+}
